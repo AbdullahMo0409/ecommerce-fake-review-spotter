@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Machine Learning models / large files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.jsonl
+*.parquet
+*.sqlite
+*.db
+
+# Keep sample data if needed
+!data/sample/
+!data/sample/**
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
