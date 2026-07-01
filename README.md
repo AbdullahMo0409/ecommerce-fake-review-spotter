@@ -1,2 +1,2 @@
 # Ecommerce-Fake-Review-Spotter
-A web-based AI project that detects fake e-commerce reviews using both fast machine learning models and a deeper DistilBERT insight mode with confidence scores and explanations.
+AI-powered web app for detecting fake e-commerce reviews using machine learning, DistilBERT, confidence scores, and explainable prediction results.
