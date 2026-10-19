@@ -89,7 +89,7 @@ This project was developed collaboratively as part of our AI Engineering coursew
 | Team Member | Contributions |
 |---|---|
 | [Abdullah Mohammed](https://github.com/AbdullahMo0409) | Frontend development and ML integration |
-| [Aly Ayman Aly](https://github.com/AlyAyman22) | traditional machine learning model training and evaluation |
+| [Aly Ayman](https://github.com/AlyAyman22) | traditional machine learning model training and evaluation |
 | [Kareem Elzahaby](https://github.com/zahabyy) | DistelBIRT Transformer training and evaluation |
 
 Thanks to everyone involved in building and testing this project.
