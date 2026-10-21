@@ -4,7 +4,7 @@ An AI-powered web application for detecting fake e-commerce reviews using both t
 
 The project provides two prediction modes: a fast machine learning mode for quick results, and a deeper DistilBERT-based insight mode that returns a confidence score and an explanation for the prediction.
 
-**Live Demo:** https://x-frs.vercel.app/
+**Live Demo:**  https://x-frs.vercel.app/
 
 ---
 
